@@ -1,6 +1,8 @@
 # 🧸 Toys Market — Sales & Profitability Analysis (Tableau)
 
-An interactive retail analytics project built using **Tableau Desktop**, designed to evaluate sales trends, profit contributions, regional footprints, and store channel performance for the Maven Toys retail chain.
+An interactive retail analytics project built using **Tableau Public**, designed to evaluate sales trends, profit contributions, regional footprints, and store channel performance for the Maven Toys retail chain.
+
+🔗 [View the live dashboard](https://public.tableau.com/views/ToysMarket/Cover?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
